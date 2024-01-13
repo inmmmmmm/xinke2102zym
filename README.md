@@ -44,6 +44,8 @@
 
 &emsp;&emsp;4.4 最优装载
 
+&emsp;&emsp;4.5 Prim算法
+
 #### [五、回溯法](https://a2174d5c.lightly.teamcode.com/)
 
 &emsp;&emsp;5.1 装载问题
@@ -56,14 +58,18 @@
 
 &emsp;&emsp;5.5 n后问题
 
+&emsp;&emsp;5.6 图的m着色问题
+
+&emsp;&emsp;5.7 连续邮资问题
+
 #### [六、分支限界法](https://a2174d5c.lightly.teamcode.com/)
 
 &emsp;&emsp;5.1. 单源最短路径
 
 &emsp;&emsp;5.2. 装载问题
 
-&emsp;&emsp;5.3. 布线问题
+&emsp;&emsp;5.3. TSP问题
 
-&emsp;&emsp;5.4. 0-1 背包问题
+&emsp;&emsp;5.4. 布线问题
 
-&emsp;&emsp;5.5. TSP 问题
+&emsp;&emsp;5.5.  0-1背包问题

@@ -1,5 +1,5 @@
 # 大三下算法设计与分析课程设计——信科2102钟一鸣
-#### [二、递归与分治策略](https://a2174d5c.lightly.teamcode.com/)
+#### [二、递归与分治策略](https://76d547e6.lightly.teamcode.com/)
 &emsp;&emsp;2.1 二分搜索技术
 
 &emsp;&emsp;2.2 棋盘覆盖
@@ -14,7 +14,7 @@
 
 &emsp;&emsp;2.7 汉诺塔问题
 
-#### [三、动态规划](https://a2174d5c.lightly.teamcode.com/)
+#### [三、动态规划](https://76d547e6.lightly.teamcode.com/)
 
 &emsp;&emsp;3.1 矩阵连乘问题
 
@@ -30,7 +30,7 @@
 
 &emsp;&emsp;3.7 最优二叉搜索树
 
-#### [四、贪心算法](https://a2174d5c.lightly.teamcode.com/)
+#### [四、贪心算法](https://76d547e6.lightly.teamcode.com/)
 
 &emsp;&emsp;4.1 活动安排问题
 
@@ -42,7 +42,7 @@
 
 &emsp;&emsp;4.5 Prim算法
 
-#### [五、回溯法](https://a2174d5c.lightly.teamcode.com/)
+#### [五、回溯法](https://76d547e6.lightly.teamcode.com/)
 
 &emsp;&emsp;5.1 装载问题
 
@@ -58,7 +58,7 @@
 
 &emsp;&emsp;5.7 连续邮资问题
 
-#### [六、分支限界法](https://a2174d5c.lightly.teamcode.com/)
+#### [六、分支限界法](https://76d547e6.lightly.teamcode.com/)
 
 &emsp;&emsp;5.1. 单源最短路径
 
